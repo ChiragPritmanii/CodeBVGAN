@@ -8,3 +8,5 @@ matplotlib
 pesq
 auraloss
 tqdm
+einops
+omegaconf
